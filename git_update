@@ -1,1 +1,8 @@
+=> to update the remote repository
 git push -u origin master
+
+=> to validate all changes of the current directory
+git commit -a
+
+=> to add a new file to the current git
+git add <file>
